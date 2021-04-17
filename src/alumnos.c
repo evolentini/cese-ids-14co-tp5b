@@ -25,6 +25,7 @@
 
 /*=====[Definitions of public global variables]==============================*/
 
+//! Constante con los datos del alumnos Esteban Volentini
 static const struct alumno_s ESTEBAN_VOLENTINI = {
     .apellidos = "VOLENTINI",
     .nombres = "Esteban Daniel",
