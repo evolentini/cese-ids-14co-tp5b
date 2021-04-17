@@ -34,7 +34,7 @@ static const struct alumno_s ESTEBAN_VOLENTINI = {
 static const struct alumno_s ALEJANDRO_PERMINGEAT = {
     .apellidos = "PERMINGEAT",
     .nombres = "Alejandro",
-    .documento = "00.000.000",
+    .documento = "99.999.999",
 };
 
 const alumno_t ALUMNOS[] = {
